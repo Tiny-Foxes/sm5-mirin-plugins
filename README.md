@@ -1,5 +1,5 @@
 # NotITG Mirin Template Plugins
-This is the repository for plugins that are compatible with the [notitg-mirin](https://github.com/XeroOl/notitg-mirin) template.
+This is the repository for plugins that are compatible with the [sm5-mirin](https://github.com/XeroOl/sm5-mirin) template.
 
 ## Plugin list:
 * [hiddenregions](hiddenregions.md) by [oatmealine](https://github.com/oatmealine/)
