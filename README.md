@@ -11,10 +11,10 @@ This is the repository for plugins that are compatible with the [sm5-mirin](http
 * [swap](swap.md) by [XeroOl](https://github.com/XeroOl/)
 ## Installing a plugin
 * Create a `/plugins/` folder inside the template
-* Place the plugin's `.xml` file into the folder
+* Place the plugin's `.lua` file into the folder
 
 ## Submit your plugin here!
 * Create a plugin.
 * Ensure your plugin works properly.
 * Write a documentation file that describes how to use the plugin.
-* Submit a pull request, or send the files to XeroOl on discord.
+* Submit a pull request, or send the files to Sudospective on discord.
