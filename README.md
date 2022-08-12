@@ -1,4 +1,4 @@
-# NotITG Mirin Template Plugins
+# SM5 Mirin Template Plugins
 This is the repository for plugins that are compatible with the [sm5-mirin](https://github.com/XeroOl/sm5-mirin) template.
 
 ## Plugin list:
